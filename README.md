@@ -12,15 +12,15 @@ Time-Limited Challenges: Implemented a time-sensitive quiz format, creating an e
 * Context API: Utilized the Context API for centralized state management, enhancing scalability and maintainability.
 
 ## Project Highlights:
-Interactive UI States: Effectively managed a multitude of UI states to provide users with a dynamic and visually appealing quiz experience.
-Dynamic Rating System: Implemented a rating system that calculates and presents a comprehensive performance score based on user responses and time management.
+* Interactive UI States: Effectively managed a multitude of UI states to provide users with a dynamic and visually appealing quiz experience.
+* Dynamic Rating System: Implemented a rating system that calculates and presents a comprehensive performance score based on user responses and time management.
 
 ## Key Technical Skills Demonstrated:
-React.js
--useReducer
--useEffect
--Data Fetching
--Context API
+* React.js
+* useReducer
+* useEffect
+* Data Fetching
+* Context API
 
 ## Impact:
 This project showcases my proficiency in handling complex UI states through the use of the useReducer hook and the Context API. The incorporation of time-limited challenges adds an extra layer of dynamism, providing users with an interactive and challenging quiz environment.
